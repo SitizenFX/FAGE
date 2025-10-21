@@ -1,5 +1,3 @@
-![Private / Proprietary](https://img.shields.io/badge/License-Proprietary-red)
-
 # ⚠️ FAGE – Private Build System
 
 **Copyright (c) 2025 DJsiita Studios (Elijah Siita / VidllQ Authority)**  
